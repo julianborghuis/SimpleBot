@@ -1,0 +1,6 @@
+{
+  "token": "-SET-YOUR-BOT-TOKEN-HERE-",
+  "prefix": "?",
+
+  "welcomeChannel": "-CHANNEL-ID-HERE-"
+}

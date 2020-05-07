@@ -1,0 +1,24 @@
+{
+  "name": "simplebot",
+  "description": "A simple bot for you're own Discord server.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "simple.js",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/Julianvschijndel/SimpleBot"
+  },
+  "author": {
+    "name": "Julian van Schijndel",
+    "company": "JulianDev",
+    "homepage": "https://juliandev.nl",
+    "email": "info@juliandev.nl"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "moment": "^2.25.3",
+    "moment-duration": "0.0.6",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2"
+  }
+}
