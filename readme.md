@@ -8,7 +8,7 @@ What can this **SimpleBot** do?<br>
 
 *The [number] needs to be set to the amount of messages you want to delete.*
 
-**License: MIT**
+<img src="https://cdn.juliandev.nl/license.svg" alt="License">
 
 This project might not be continued to development. 
 
