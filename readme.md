@@ -1,6 +1,8 @@
 # SimpleBot
 A simple bot for you're own Discord server.
 
+*If you need to see the project structure then please [click here.](STRUCTURE.md)*
+
 What can this **SimpleBot** do?<br>
 
 - When a user joins or leave the server it will send a message to a channel.
