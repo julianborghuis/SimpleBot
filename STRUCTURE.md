@@ -1,12 +1,13 @@
 # Project structure
 ```
 SimpleBot
-├── assets
+├── assets/
 │   ├── clear_command.gif
 │   └── welcome_messages.png
-├── commands
+├── commands/
 │   └── clear.js
 ├── LICENSE
+├── STRUCTURE.md
 ├── config.json
 ├── package-lock.json
 ├── package.json
